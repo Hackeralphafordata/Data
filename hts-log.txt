@@ -1,0 +1,31 @@
+HTTrack3.49-2 launched on Tue, 24 Sep 2024 11:31:38 at Indian-rwds.in/panel-aryan/cobra +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(httrack -O /storage/emulated/0/HTTrack/Websites/alphabhai -A25000k%Px%q0u1s2%s%u%fDaK0H0N0p3 Indian-rwds.in/panel-aryan/cobra +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2017], %s -->" -%l LANGUAGE_ISO,* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:37:59	Error: 	"Not Found" (404) at link indian-rwds.in/panel-aryan/cobra/lenzzfont/lenzz.woff (from indian-rwds.in/panel-aryan/cobra/)
+11:37:59	Error: 	"Not Found" (404) at link indian-rwds.in/panel-aryan/cobra/lenzzfont/lenzz.ttf (from indian-rwds.in/panel-aryan/cobra/)
+11:37:59	Error: 	"Not Found" (404) at link indian-rwds.in/panel-aryan/cobra/lenzz/popup-navbar1.png (from indian-rwds.in/panel-aryan/cobra/)
+11:37:59	Error: 	"Not Found" (404) at link indian-rwds.in/panel-aryan/cobra/lenzz/kecap-notif.png (from indian-rwds.in/panel-aryan/cobra/)
+11:38:05	Error: 	"Not Found" (404) at link indian-rwds.in/panel-aryan/cobra/lenzzcss/lenzzfont/lenzz.ttf (from indian-rwds.in/panel-aryan/cobra/lenzzcss/style.css)
+11:38:05	Error: 	"Not Found" (404) at link indian-rwds.in/panel-aryan/cobra/lenzz/bg.jpg (from indian-rwds.in/panel-aryan/cobra/lenzzcss/style.css)
+11:38:05	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://www.pubgmobile.com/en/images/footer_link_bg.png (from indian-rwds.in/panel-aryan/cobra/lenzzcss/style.css)
+11:38:05	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://www.pubgmobile.com/en/images/footer_link_bg_on.png (from indian-rwds.in/panel-aryan/cobra/lenzzcss/style.css)
+11:38:05	Error: 	"Not Found" (404) at link indian-rwds.in/panel-aryan/cobra/lenzz/bg-item.png (from indian-rwds.in/panel-aryan/cobra/lenzzcss/style.css)
+11:38:05	Error: 	"Not Found" (404) at link indian-rwds.in/panel-aryan/cobra/lenzz/nambuttom.png (from indian-rwds.in/panel-aryan/cobra/lenzzcss/style.css)
+11:38:05	Error: 	"Not Found" (404) at link indian-rwds.in/panel-aryan/cobra/lenzz/hex.png (from indian-rwds.in/panel-aryan/cobra/lenzzcss/style.css)
+11:38:05	Error: 	"Not Found" (404) at link indian-rwds.in/panel-aryan/cobra/lenzz/container-bg.png (from indian-rwds.in/panel-aryan/cobra/lenzzcss/style.css)
+11:38:05	Error: 	"Not Found" (404) at link indian-rwds.in/panel-aryan/cobra/lenzzcss/lenzz/bg-sec.png (from indian-rwds.in/panel-aryan/cobra/lenzzcss/style.css)
+11:38:05	Error: 	"Not Found" (404) at link indian-rwds.in/panel-aryan/cobra/lenzz/timer.png (from indian-rwds.in/panel-aryan/cobra/lenzzcss/style.css)
+11:38:05	Error: 	"Not Found" (404) at link indian-rwds.in/panel-aryan/cobra/lenzz/notifgift.png (from indian-rwds.in/panel-aryan/cobra/lenzzcss/style.css)
+11:38:05	Error: 	"Not Found" (404) at link indian-rwds.in/panel-aryan/cobra/lenzz/bgall.jpg (from indian-rwds.in/panel-aryan/cobra/lenzzcss/style.css)
+11:38:37	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://www.pubgmobile.com/en/images/footer_link_bg.png (from indian-rwds.in/panel-aryan/cobra/lenzzcss/style.css)
+11:38:37	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://www.pubgmobile.com/en/images/footer_link_bg_on.png (from indian-rwds.in/panel-aryan/cobra/lenzzcss/style.css)
+11:39:08	Error: 	"error:00000005:lib(0):func(0):DH lib" (-5) after 2 retries at link https://www.pubgmobile.com/en/images/footer_link_bg.png (from indian-rwds.in/panel-aryan/cobra/lenzzcss/style.css)
+11:39:08	Error: 	"error:00000005:lib(0):func(0):DH lib" (-5) after 2 retries at link https://www.pubgmobile.com/en/images/footer_link_bg_on.png (from indian-rwds.in/panel-aryan/cobra/lenzzcss/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 30 seconds : 123 links scanned, 102 files written (6775190 bytes overall) [5783805 bytes received at 12852 bytes/sec], 2454770 bytes transferred using HTTP compression in 39 files, ratio 54%, 2.8 requests per connection
+(16 errors, 4 warnings, 0 messages)
